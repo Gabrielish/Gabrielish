@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="link" width="100%" alt="Gabriel Bundea">
+  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP2E_LGiKj8raahEoJCXhVU" width="100%" alt="Gabriel Bundea">
 </p>
 
 
