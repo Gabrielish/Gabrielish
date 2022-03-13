@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hey Gabrielish here 👋
+
+## [See My Portfolio][website]
+
+---
+
 <p align="center">
   <img src="link" width="100%" alt="Gabriel Bundea">
 </p>
