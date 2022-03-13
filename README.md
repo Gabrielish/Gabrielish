@@ -95,9 +95,8 @@ I love to do web design and development, and I'm very passionate about it, that'
 
 [<img align="left" alt="main1479" width="22px" src="https://img.icons8.com/color/48/000000/globe.png" />][website]
 [<img align="left" alt="main1479 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="main1479 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="main1479 | Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png" />][facebook]
-[<img align="left" alt="main1479 | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram.png" />][instagram]
+
 
 <br/>
 <br/>
