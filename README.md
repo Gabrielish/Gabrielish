@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  -->
 
 
-### Hey Gabrielish here 👋
+<!-- ### Hey Gabrielish here 👋
 
 ## [See My Portfolio][website]
 
@@ -119,3 +119,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [website]: https://www.gabrielish.netlify.com
 [linkedin]: https://www.linkedin.com/in/gabriel-bundea-485063197/
 [facebook]: https://www.facebook.com/GabrielBundea/
+ -->
