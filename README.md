@@ -48,7 +48,7 @@ I love to do web design and development, and I'm very passionate about it, that'
 <!-- --- -->
 
 
-**I'm Good With**  
+**I'm good with:**  
 
 
 <code><img title="HTML" height="20" src="https://gabriel-bundea.netlify.app/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg"></code>
@@ -60,11 +60,11 @@ I love to do web design and development, and I'm very passionate about it, that'
 
 
 
----
+<!-- --- -->
 
 
 
-**Tools, I Always Use**
+**Tools, I always use:**
 
 <code><img title="Photoshop" height="20" src="https://gabriel-bundea.netlify.app/static/media/photoshop-icon.547aa4d61a17e284bf8caf9bdd0c9199.svg"></code>
 <code><img title="Illustrator" height="20" src="https://gabriel-bundea.netlify.app/static/media/illustrator-icon.e7b64483f54bfbbba684aef6cdaf2b8a.svg"></code>
