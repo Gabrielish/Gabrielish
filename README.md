@@ -15,17 +15,20 @@ Here are some ideas to get you started:
  -->
 
 
-<!-- ### Hey Gabrielish here 👋
+<!--  ### Hey Gabrielish here 👋 -->
 
-## [See My Portfolio][website]
+
+
+
+<p align="center">
+  <img src="https://i.imgur.com/REjKDaB.jpg" width="100%" alt="Gabriel Bundea">
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP2E_LGiKj8raahEoJCXhVU" width="100%" alt="Gabriel Bundea">
-</p>
+## [See My Portfolio][website]
 
-
+<!--
 Hello there,
 I'm Gabriel Bundea, a passionate web designer & developer. I have pretty solid experience in frontend web development.
 I love to do web design and development, and I'm very passionate about it, that's why I have chosen web designing and development as my profession.
@@ -115,8 +118,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [Gabrielish](https://github.com/Gabrielish)
-
-[website]: https://www.gabrielish.netlify.com
+ -->
+[website]: https://www.gabriel-bundea.netlify.com
 [linkedin]: https://www.linkedin.com/in/gabriel-bundea-485063197/
 [facebook]: https://www.facebook.com/GabrielBundea/
- -->
+
