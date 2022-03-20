@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- --- -->
 
-## [Check my Portfolio][website]
+## 👉 [Check my Portfolio][website]
 
 
 <!-- Hello there,
@@ -51,13 +51,12 @@ I love to do web design and development, and I'm very passionate about it, that'
 **I'm Good With**  
 
 
-<code><img title="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img title="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img title="SASS/SCSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img title="Bootstrap" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img title="Tailwind CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img title="JavaScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img title="React JS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img title="HTML" height="20" src="https://gabriel-bundea.netlify.app/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg"></code>
+<code><img title="CSS" height="20" src="https://gabriel-bundea.netlify.app/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg"></code>
+<code><img title="SASS/SCSS" height="20" src="https://gabriel-bundea.netlify.app/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg"></code>
+<code><img title="Bootstrap" height="20" src="https://gabriel-bundea.netlify.app/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg"></code>
+<code><img title="JavaScript" height="20" src="https://gabriel-bundea.netlify.app/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg"></code>
+<code><img title="React JS" height="20" src="https://gabriel-bundea.netlify.app/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg"></code>
 
 
 
@@ -67,14 +66,12 @@ I love to do web design and development, and I'm very passionate about it, that'
 
 **Tools, I Always Use**
 
-
-<code><img title="VS CODE" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img title="Photoshop" height="20" src="https://gabriel-bundea.netlify.app/static/media/photoshop-icon.547aa4d61a17e284bf8caf9bdd0c9199.svg"></code>
+<code><img title="Illustrator" height="20" src="https://gabriel-bundea.netlify.app/static/media/illustrator-icon.e7b64483f54bfbbba684aef6cdaf2b8a.svg"></code>
 <code><img title="Adobe XD" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"></code>
+<code><img title="VS CODE" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img title="Figma" height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
-<code><img title="Github" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="Netlify" height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></code>
-<code><img title="Heroku" height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
-<code><img title="Terminal" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!--
 
