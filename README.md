@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-## [See My Portfolio][website]
+## [Check my Portfolio][website]
 
 <!--
 Hello there,
@@ -119,7 +119,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Gabrielish](https://github.com/Gabrielish)
  -->
-[website]: https://www.gabriel-bundea.netlify.com
+[website]: https://gabriel-bundea.netlify.app/
 [linkedin]: https://www.linkedin.com/in/gabriel-bundea-485063197/
 [facebook]: https://www.facebook.com/GabrielBundea/
 
