@@ -24,12 +24,12 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/REjKDaB.jpg" width="100%" alt="Gabriel Bundea">
 </p>
 
----
+<!-- --- -->
 
 ## [Check my Portfolio][website]
 
-<!--
-Hello there,
+
+<!-- Hello there,
 I'm Gabriel Bundea, a passionate web designer & developer. I have pretty solid experience in frontend web development.
 I love to do web design and development, and I'm very passionate about it, that's why I have chosen web designing and development as my profession.
  
@@ -37,6 +37,7 @@ I love to do web design and development, and I'm very passionate about it, that'
 
 
 ![Profile views](https://gpvc.arturio.dev/Gabrielish)  <img src="https://img.shields.io/github/followers/main1479?label=Follow" style=" float:left, margin-right:10px" />
+ -->
 
 
 
@@ -44,8 +45,7 @@ I love to do web design and development, and I'm very passionate about it, that'
 
 
 
-
----
+<!-- --- -->
 
 
 **I'm Good With**  
@@ -76,7 +76,7 @@ I love to do web design and development, and I'm very passionate about it, that'
 <code><img title="Heroku" height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 <code><img title="Terminal" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
+<!--
 
 ---
 
