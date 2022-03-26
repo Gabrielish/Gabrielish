@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://i.imgur.com/8RMMPTw.jpg" width="100%" alt="Gabriel Bundea">
+  <img src="https://i.imgur.com/vtcPP2k.jpg" width="100%" alt="Gabriel Bundea">
 </p>
 
 <!-- --- -->
